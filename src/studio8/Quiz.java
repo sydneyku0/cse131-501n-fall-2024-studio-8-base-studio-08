@@ -5,7 +5,6 @@ import java.util.Scanner;
 public class Quiz {
 
 	private Question[] questions;
-	
 	public Quiz(Question[] questions) {
 		this.questions = questions;
 	}
